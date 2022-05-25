@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(161, 31, 31);
+    text-align: center;
+    padding: 20px 300px 50px 300px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img{
+    width: 300px;
+    height: auto;
+}
+p{
+    /* justify-content: center; */
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+    border-style: dotted;
+    border-color: blue;
+    border: 3px;
+    background-color: black;
+    padding: 12px;
+    border-radius: 5px;
+}

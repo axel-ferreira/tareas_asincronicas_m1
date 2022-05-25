@@ -1,0 +1,10 @@
+body{
+    background-color: brown;
+}
+header{
+    display: inline-block;
+    text-align: center;
+}
+.formulario{
+  display: inline-block;
+}
