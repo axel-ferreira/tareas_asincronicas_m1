@@ -1,6 +1,8 @@
 .productos{
     background: rgb(12,109,253);
     background: linear-gradient(180deg, rgba(12,109,253,1) 0%, rgba(0,212,255,0.9332326680672269) 100%);
+    max-width: 20rem;
+    position-absolute;
 }
 
 body{
@@ -18,4 +20,8 @@ body{
 } */
 .mapa{
     margin-left: 10rem;
+}
+
+.titulo{
+    margin: 0 auto;
 }

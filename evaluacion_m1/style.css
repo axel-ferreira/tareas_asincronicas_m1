@@ -1,0 +1,27 @@
+.back{
+    background-image: url(logo.png) ;
+    background-size: cover;
+}
+.alto{
+    height: 15rem;
+}
+
+.margen{
+    margin-top: 5rem;
+}
+
+/* .margenl{
+    margin-left: 25rem;
+} */
+
+.margenn{
+    padding-left: 4rem;}
+
+    .background{
+        background: rgb(63,251,179);
+background: linear-gradient(176deg, rgba(63,251,179,1) 0%, rgba(40,35,204,1) 100%);
+    }
+
+    .historia{
+        text-align: justify;
+    }
